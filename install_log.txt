@@ -1,0 +1,11 @@
+Started: Mon 11/16/2026 10:59:00.01 
+-------------------------------- 
+'node' is not recognized as an internal or external command,
+operable program or batch file.
+'npm' is not recognized as an internal or external command,
+operable program or batch file.
+'npm' is not recognized as an internal or external command,
+operable program or batch file.
+'npm' is not recognized as an internal or external command,
+operable program or batch file.
+Finished: Mon 11/16/2026 10:59:00.03 
